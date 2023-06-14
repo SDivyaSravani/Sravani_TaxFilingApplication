@@ -1,0 +1,39 @@
+.Tax-bg-container {
+    background-color: #03174c;
+    height: 100vh;
+    padding:70px;
+}
+
+.tax-heading {
+    color: #ffe7bf;
+    font-family: "Bree Serif";
+    font-size: 32px;
+}
+
+.button {
+    color: #ffffff;
+    background-color: #8e97fd;
+    font-family: "Bree Serif";
+    font-size: 14px;
+    width: 100px;
+    height: 30px;
+    border-width: 0px;
+    border-radius: 38px;
+}
+
+.tax-bg-container {
+    background-color: #03174c;
+    height:100vh;
+}
+
+
+.tax-details-container {
+    padding: 20px;
+}
+
+.tax-style {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 16px;
+}
+
